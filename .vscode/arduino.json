@@ -1,0 +1,7 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:nano",
+    "sketch": "PasteDispenser.ino",
+    "port": "COM3",
+    "configuration": "cpu=atmega328old"
+}
